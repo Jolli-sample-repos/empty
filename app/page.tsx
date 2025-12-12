@@ -1,5 +1,5 @@
 import { redirect } from 'next/navigation'
 
 export default function Home() {
-  redirect('/api-docs/jolli')
+  redirect('/get-start-document')
 }
