@@ -3,11 +3,5 @@ export default {
   '--': {
     type: 'separator',
     title: 'Release'
-  },
-  'api-reference': {
-    title: 'API Reference',
-    type: 'page',
-    href: '/api-docs/jolli'
-  },
-  'get-start-document': 'Get start document'
+  }
 }
