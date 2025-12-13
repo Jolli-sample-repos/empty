@@ -1,3 +1,7 @@
 export default {
-  'index': { display: 'hidden' }
+  'index': { display: 'hidden' },
+  '--': {
+        type: 'seperator',
+        title: 'Hello'
+    }
 }
