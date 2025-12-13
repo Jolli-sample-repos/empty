@@ -1,7 +1,5 @@
 export default {
   'index': { display: 'hidden' },
-  '--': {
-        type: 'seperator',
-        title: 'Hello'
-    }
+  'introduction': 'Introduction',
+  'php': 'PHP'
 }
