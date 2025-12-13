@@ -1,9 +1,10 @@
 export default {
   'index': { display: 'hidden' },
-  '-': {
-    type: 'seperator',
-    title: 'What'    
-},
-  'introduction': 'Introduction',
-  'php': 'PHP'
+  'php': 'PHP',
+  'testtest': 'testtest',
+  'api-reference': {
+    title: 'API Reference',
+    type: 'page',
+    href: '/api-docs/jolli'
+  }
 }
